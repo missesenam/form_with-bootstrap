@@ -1,0 +1,18 @@
+.sizingof{
+    height: 500px;
+}
+.sizingof img{
+    height: 100%;
+    width: 90%;
+}
+label{
+    display: block;
+    margin-top: 0.5rem;
+}
+input{
+    height: 2.5em;
+    width: 80%;
+}
+.pad{
+    margin: 10px 0;
+}
